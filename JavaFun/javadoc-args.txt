@@ -1,0 +1,8 @@
+-d docs
+-html5
+-author
+-version
+--module-source-path docsrc
+--module jdojo.utility,jdojo.jshell
+-overview docsrc\overview.html
+

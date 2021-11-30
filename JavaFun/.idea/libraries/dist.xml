@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.mod.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.object.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.operator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.assertion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.archives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.person.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/com.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.cls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.utility.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.format.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.statememnt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.string.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.array.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.inheritance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.datatype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.intro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.person.test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.concepts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.exception.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.interfaces.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.enums.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.regex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.address.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.jshell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/jdojo.datetime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

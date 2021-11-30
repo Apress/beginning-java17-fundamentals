@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java9Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Java9Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.address/jdojo.address.iml" filepath="$PROJECT_DIR$/src/jdojo.address/jdojo.address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.array/jdojo.array.iml" filepath="$PROJECT_DIR$/src/jdojo.array/jdojo.array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.assertion/jdojo.assertion.iml" filepath="$PROJECT_DIR$/src/jdojo.assertion/jdojo.assertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.cls/jdojo.cls.iml" filepath="$PROJECT_DIR$/src/jdojo.cls/jdojo.cls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.concepts/jdojo.concepts.iml" filepath="$PROJECT_DIR$/src/jdojo.concepts/jdojo.concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.datatype/jdojo.datatype.iml" filepath="$PROJECT_DIR$/src/jdojo.datatype/jdojo.datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.datetime/jdojo.datetime.iml" filepath="$PROJECT_DIR$/src/jdojo.datetime/jdojo.datetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.enums/jdojo.enums.iml" filepath="$PROJECT_DIR$/src/jdojo.enums/jdojo.enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.exception/jdojo.exception.iml" filepath="$PROJECT_DIR$/src/jdojo.exception/jdojo.exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.format/jdojo.format.iml" filepath="$PROJECT_DIR$/src/jdojo.format/jdojo.format.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.inheritance/jdojo.inheritance.iml" filepath="$PROJECT_DIR$/src/jdojo.inheritance/jdojo.inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.interfaces/jdojo.interfaces.iml" filepath="$PROJECT_DIR$/src/jdojo.interfaces/jdojo.interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.intro/jdojo.intro.iml" filepath="$PROJECT_DIR$/src/jdojo.intro/jdojo.intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.jshell/jdojo.jshell.iml" filepath="$PROJECT_DIR$/src/jdojo.jshell/jdojo.jshell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.mod/jdojo.mod.iml" filepath="$PROJECT_DIR$/src/jdojo.mod/jdojo.mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.object/jdojo.object.iml" filepath="$PROJECT_DIR$/src/jdojo.object/jdojo.object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.operator/jdojo.operator.iml" filepath="$PROJECT_DIR$/src/jdojo.operator/jdojo.operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.person/jdojo.person.iml" filepath="$PROJECT_DIR$/src/jdojo.person/jdojo.person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.person.test/jdojo.person.test.iml" filepath="$PROJECT_DIR$/src/jdojo.person.test/jdojo.person.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.regex/jdojo.regex.iml" filepath="$PROJECT_DIR$/src/jdojo.regex/jdojo.regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.statememnt/jdojo.statememnt.iml" filepath="$PROJECT_DIR$/src/jdojo.statememnt/jdojo.statememnt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.string/jdojo.string.iml" filepath="$PROJECT_DIR$/src/jdojo.string/jdojo.string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.test/jdojo.test.iml" filepath="$PROJECT_DIR$/src/jdojo.test/jdojo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.utility/jdojo.utility.iml" filepath="$PROJECT_DIR$/src/jdojo.utility/jdojo.utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jdojo.wrapper/jdojo.wrapper.iml" filepath="$PROJECT_DIR$/src/jdojo.wrapper/jdojo.wrapper.iml" />
+    </modules>
+  </component>
+</project>
