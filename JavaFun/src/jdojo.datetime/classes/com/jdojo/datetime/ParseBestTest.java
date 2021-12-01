@@ -12,10 +12,10 @@ public class ParseBestTest {
     public static void main(String[] args) {
         DateTimeFormatter parser
                 = DateTimeFormatter.ofPattern("yyyy-MM-dd['T'HH:mm:ss[Z]]");
-        parseStr(parser, "2012-05-31");
-        parseStr(parser, "2012-05-31T16:30:12");
-        parseStr(parser, "2012-05-31T16:30:12-0500");
-        parseStr(parser, "2012-05-31Hello");
+        parseStr(parser, "2021-05-31");
+        parseStr(parser, "2021-05-31T16:30:12");
+        parseStr(parser, "2021-05-31T16:30:12-0500");
+        parseStr(parser, "2021-05-31Hello");
     }
 
     public static void parseStr(DateTimeFormatter formatter, String text) {

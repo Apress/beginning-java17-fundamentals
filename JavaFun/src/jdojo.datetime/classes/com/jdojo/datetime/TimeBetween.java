@@ -10,8 +10,8 @@ import static java.time.temporal.ChronoUnit.MINUTES;
 
 public class TimeBetween {
     public static void main(String[] args) {
-        LocalDate ld1 = LocalDate.of(2014, Month.JANUARY, 7);
-        LocalDate ld2 = LocalDate.of(2014, Month.MAY, 18);
+        LocalDate ld1 = LocalDate.of(2022, Month.JANUARY, 7);
+        LocalDate ld2 = LocalDate.of(2022, Month.MAY, 18);
         long days = DAYS.between(ld1, ld2);
 
         LocalTime lt1 = LocalTime.of(7, 0);

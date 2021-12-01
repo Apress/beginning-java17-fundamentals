@@ -15,7 +15,7 @@ import java.util.TimeZone;
 public class GregorianCalendarAndNewDateTime {
     public static void main(String[] args) {
         // Create a GC for the default time zone
-        GregorianCalendar gc = new GregorianCalendar(2014, 1, 11, 15, 45, 50);
+        GregorianCalendar gc = new GregorianCalendar(2022, 1, 11, 15, 45, 50);
         System.out.println("Gregorian Calendar: " + gc.getTime());
 
         // Convert the GC to a LocalDate

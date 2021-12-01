@@ -6,7 +6,7 @@ package com.jdojo.utility;
  * All methods in this class are <code>static</code>. It 
  * provides methods to perform addition, subtraction, 
  * multiplication and division.
- * {@index jdojo Visit www.jdojo.com for more info on Beginning Java 9 Fundamentals book!}
+ * {@index jdojo Visit www.jdojo.com for more info on Beginning Java 17 Fundamentals book!}
  * @author Kishori Sharan  
  * @since Version 1.0
  */

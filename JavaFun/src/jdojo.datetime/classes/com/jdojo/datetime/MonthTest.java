@@ -7,7 +7,7 @@ import java.time.Month;
 public class MonthTest {
     public static void main(String[] args) {
         // Use Month.JULY as a method argument
-        LocalDate ld1 = LocalDate.of(2012, Month.JULY, 1);
+        LocalDate ld1 = LocalDate.of(2021, Month.JULY, 1);
 
         // Derive a Month from a local date
         Month m1 = Month.from(ld1);

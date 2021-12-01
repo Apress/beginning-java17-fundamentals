@@ -11,7 +11,7 @@ import java.time.ZonedDateTime;
 public class PeriodTest {
     public static void main(String[] args) {
         ZoneId usCentral = ZoneId.of("America/Chicago");
-        LocalDateTime ldt = LocalDateTime.of(2012, Month.MARCH, 10, 7, 30);
+        LocalDateTime ldt = LocalDateTime.of(2021, Month.MARCH, 10, 7, 30);
         ZonedDateTime zdt1 = ZonedDateTime.of(ldt, usCentral);
         Period p1 = Period.ofDays(1);
         Duration d1 = Duration.ofHours(24);

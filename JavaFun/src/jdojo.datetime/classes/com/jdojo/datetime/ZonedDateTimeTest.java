@@ -16,7 +16,7 @@ public class ZonedDateTimeTest {
         System.out.println("Current zoned datetime:" + zdt1);
         
         // Create a local datetime
-        LocalDateTime ldt = LocalDateTime.of(2012, Month.MARCH, 11, 7, 30);
+        LocalDateTime ldt = LocalDateTime.of(2021, Month.MARCH, 11, 7, 30);
 
         // Create some zoned datetimes
         ZoneId usCentralZone = ZoneId.of("America/Chicago");

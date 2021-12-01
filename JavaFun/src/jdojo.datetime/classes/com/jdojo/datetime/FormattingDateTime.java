@@ -12,7 +12,7 @@ import java.util.Locale;
 
 public class FormattingDateTime {
     public static void main(String[] args) {
-        LocalDate ld = LocalDate.of(2012, Month.APRIL, 30);
+        LocalDate ld = LocalDate.of(2021, Month.APRIL, 30);
         System.out.println("Formatting date: " + ld);
         format(ld, "M/d/yyyy");
         format(ld, "MM/dd/yyyy");

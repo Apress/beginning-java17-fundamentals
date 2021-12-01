@@ -9,9 +9,9 @@ import java.time.ZonedDateTime;
 
 public class CustomAdjusterTest {
     public static void main(String[] args) {
-        LocalDate ld1 = LocalDate.of(2013, Month.DECEMBER, 12); // Thursday
-        LocalDate ld2 = LocalDate.of(2013, Month.DECEMBER, 13); // Friday
-        LocalDate ld3 = LocalDate.of(2013, Month.DECEMBER, 14); // Saturday
+        LocalDate ld1 = LocalDate.of(2021, Month.AUGUST, 12); // Thursday
+        LocalDate ld2 = LocalDate.of(2021, Month.AUGUST, 13); // Friday
+        LocalDate ld3 = LocalDate.of(2021, Month.AUGUST, 14); // Saturday
 
         LocalDate ld1Adjusted = ld1.with(CustomAdjusters.WEEKDAYS_WITH_NO_FRIDAY_13);
         System.out.println(ld1 + " adjusted to " + ld1Adjusted);

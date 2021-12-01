@@ -12,7 +12,7 @@ public class Book2 {
 
     public static void main(String[] args) {
         Book2 b2 = new Book2();
-        b2.title = "Beginning Java 9";
+        b2.title = "Beginning Java 17";
         b2.author = "Kishori Sharan";
         b2.pageCount = 890;
         b2.hardCover = false;

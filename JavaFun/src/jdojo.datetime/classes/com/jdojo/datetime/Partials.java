@@ -9,9 +9,9 @@ import java.time.YearMonth;
 public class Partials {
     public static void main(String[] args) {
         // Use Year
-        Year y1 = Year.of(2012);    // 2012
-        Year y2 = y1.minusYears(1); // 2011
-        Year y3 = y1.plusYears(1);  // 2013
+        Year y1 = Year.of(2021);    // 2021
+        Year y2 = y1.minusYears(1); // 2020
+        Year y3 = y1.plusYears(1);  // 2022
         Year y4 = Year.now();       // current year
         if (y1.isLeap()) {
             System.out.println(y1 + " is a leap year.");
@@ -20,7 +20,7 @@ public class Partials {
         }
 
         // Use YearMonth
-        YearMonth ym1 = YearMonth.of(2012, Month.MAY); // 2012-05
+        YearMonth ym1 = YearMonth.of(2021, Month.MAY); // 2021-05
 
         // Get the number of days in the month
         int monthLen = ym1.lengthOfMonth(); // 31
@@ -33,10 +33,10 @@ public class Partials {
         // Use MonthDay
         MonthDay md1 = MonthDay.of(Month.DECEMBER, 25);
         MonthDay md2 = MonthDay.of(Month.FEBRUARY, 29);
-        if (md2.isValidYear(2009)) {
-            System.out.println(md2 + " occurred in 2009");
+        if (md2.isValidYear(2020)) {
+            System.out.println(md2 + " occurred in 2020");
         } else {
-            System.out.println(md2 + " did not occur in 2009");
+            System.out.println(md2 + " did not occur in 2020");
         }
     }
 }
